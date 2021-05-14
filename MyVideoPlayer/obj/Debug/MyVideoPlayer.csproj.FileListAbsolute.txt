@@ -1,0 +1,45 @@
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.pdb
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form1.resources
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Properties.Resources.resources
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.Cache
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.pdb
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojAssemblyReference.cache
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form1.resources
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Properties.Resources.resources
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.cache
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.CopyComplete
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\karol\Desktop\Programowanie\JS\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojAssemblyReference.cache
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form1.resources
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Properties.Resources.resources
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.cache
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.CopyComplete
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\OxiMediaPlayer.exe.config
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\OxiMediaPlayer.exe.manifest
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\OxiMediaPlayer.application
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\OxiMediaPlayer.exe
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\bin\Debug\OxiMediaPlayer.pdb
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\OxiMediaPlayer.TrustInfo.xml
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\OxiMediaPlayer.exe.manifest
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\OxiMediaPlayer.application
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\OxiMediaPlayer.exe
+C:\Users\karol\Desktop\Programowanie\C#\BadApple\MyVideoPlayer\MyVideoPlayer\obj\Debug\OxiMediaPlayer.pdb
