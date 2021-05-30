@@ -7,5 +7,5 @@
 <i>I have decided to take up the gauntlet. </i><br>
 My first bigger C# project - Video Player for Windows platform. The program allows you to play any .wmv video. <br>
 
-#Tools
+# Tools
 Used tools: Windows Form, C#, Visual Studio, Microsoft.DirectX.AudioVideoPlayback.
