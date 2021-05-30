@@ -4,6 +4,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0.0-0E15C0) <br>
 
 ## Description
-I have decided to take up the gauntlet. <br>
+<i>I have decided to take up the gauntlet. </i><br>
 My first bigger C# project - Video Player for Windows platform. The program allows you to play any .wmv video. <br>
 Used tools: Windows Form, C#, Visual Studio, Microsoft.DirectX.AudioVideoPlayback.
