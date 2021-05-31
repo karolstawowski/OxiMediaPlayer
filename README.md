@@ -5,7 +5,9 @@
 
 ## Description
 <i>I have decided to take up the gauntlet. </i><br>
-My first C# project - Video Player for Windows platform. The program allows you to play any .wmv video. <br>
+My first C# project - Video Player for Windows platform. The program allows you to select and play a .wmv video from your PC. <br>
+
+<img src="/preview.png">
 
 ### Tools
 Visual Studio, Windows Forms, C#, Microsoft.DirectX.AudioVideoPlayback library.
