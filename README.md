@@ -1,7 +1,8 @@
 # OxiMediaPlayer
-![Language](https://img.shields.io/badge/language-C%23-0E15C0)
-![Number of lines](https://img.shields.io/tokei/lines/github/karolstawowski/OxiMediaPlayer)
-![Version](https://img.shields.io/badge/version-1.0.0.0-0E15C0) <br>
+![Language](https://img.shields.io/badge/language-C%23-3993fa)
+![License](https://img.shields.io/github/license/karolstawowski/OxiMediaPlayer?color=3993fa)
+![Number of lines](https://img.shields.io/tokei/lines/github/karolstawowski/OxiMediaPlayer?color=3993fa)
+![Version](https://img.shields.io/badge/version-1.0.0.0-3993fa) <br>
 
 ## Description
 <i>I have decided to take up the gauntlet. </i><br>
